@@ -45,4 +45,4 @@ GND | Ground Connection | I/O
 ## Usage
 - When powering a display with 5V the VCC pin can be left disconnected.
 - Drive EN high to turn on the regulator and low to turn it off. Attach to VCC or leave open for automatic startup.
-- The first display in any chain should have BI pulled to ground, this can be achieved be connecting jumper J1
+- The first display in any chain should have BI pulled to ground, this can be achieved by setting the J1 switch to ON
